@@ -18,7 +18,7 @@ A passwordless authentication system using:
 - <55 → Anomaly Detection (3 triggers → OTP)
 
 ## 🌐 Live Demo
-[Click Here]( https://pawankumar68.github.io/BioAuth-System/)
+[Click Here](https://akashraj678.github.io/Hackathon-project/)
 
 ## 👨‍💻 Tech Stack
 - HTML, CSS, JavaScript
